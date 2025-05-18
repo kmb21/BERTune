@@ -1,0 +1,7 @@
+
+=== K-Means Clusters for k=3 ===
+
+=== K-Means Clusters for k=3 ===
+Cluster 1 Rank 1: ​all my timeCluster 1 Rank 2: DaraCluster 1 Rank 3: Lane ChangeCluster 1 Rank 4: RescueCluster 1 Rank 5: Million DaysCluster 2 Rank 1: ​rare freestyleCluster 2 Rank 2: Pull UpCluster 2 Rank 3: YUNG BERMUDACluster 2 Rank 4: Mr Wayne FreestyleCluster 2 Rank 5: SuedeCluster 3 Rank 1: Flowing GlowerCluster 3 Rank 2: Cest La VieCluster 3 Rank 3: Bury Me CloserCluster 3 Rank 4: Jealousy’s a KillerCluster 3 Rank 5: Dead Skin
+=== GMM Clusters for k=3 ===
+GMM Cluster 1 Rank 1: Laying Down in a Forest FireGMM Cluster 1 Rank 2: 1760GMM Cluster 1 Rank 3: ChicaneGMM Cluster 1 Rank 4: UpstreamGMM Cluster 1 Rank 5: At the End of All Your NightsGMM Cluster 2 Rank 1: ​all my timeGMM Cluster 2 Rank 2: GoodbyeGMM Cluster 2 Rank 3: No HeartGMM Cluster 2 Rank 4: DaraGMM Cluster 2 Rank 5: Million DaysGMM Cluster 3 Rank 1: ​rare freestyleGMM Cluster 3 Rank 2: Pull UpGMM Cluster 3 Rank 3: TwoGMM Cluster 3 Rank 4: YUNG BERMUDAGMM Cluster 3 Rank 5: Suede
