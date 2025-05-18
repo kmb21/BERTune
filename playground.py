@@ -6,7 +6,7 @@ file_path = hf_hub_download(
     repo_id="amishshah/song_lyrics",
     filename="song_lyrics_min.csv",
     repo_type="dataset",
-    cache_dir="/scratch/dburger1/proj/CS91S-25"
+    cache_dir="/scratch/dburger1/proj/CS91S-25" #scrarch repo, change this to run the file
 )
 
 # df = pd.read_csv(file_path)
