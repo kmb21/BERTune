@@ -24,7 +24,7 @@ from rich.table import Table
 from rich import box
 print("")
 
-token = "6HdId8kO6n4quYWrSFJt6VukjY5SDeuWGch-F6UMnu7630izwDRU6t6i1TysHcty"
+token = "<your_token_here>"
 genius = Genius(token)
 
 def display_playlist(title, matches, index_to_title, artist_lookup_fn, N, artist, method):
